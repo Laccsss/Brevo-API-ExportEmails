@@ -1,4 +1,3 @@
-Certainly! Below is a sample `README.md` file with instructions on how to use the Python script to export all your contacts' email addresses from Brevo.
 
 ```markdown
 # Brevo Contacts Email Exporter
