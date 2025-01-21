@@ -109,10 +109,6 @@ The script will create a file named `contacts_email_addresses.txt` in the same d
 
 - Ensure that your Brevo API key has the necessary permissions to access contact data.
 - Be cautious with your API key; do not share it publicly.
-
-## License
-
-This script is provided under the MIT License. See the `LICENSE` file for more details.
 ---
 
 Happy exporting!
