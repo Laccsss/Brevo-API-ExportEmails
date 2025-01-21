@@ -113,23 +113,7 @@ The script will create a file named `contacts_email_addresses.txt` in the same d
 ## License
 
 This script is provided under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-
-If you have any questions or need further assistance, feel free to reach out.
-
 ---
 
 Happy exporting!
 ```
-
-### Explanation:
-1. **Prerequisites**: Lists the necessary software and libraries.
-2. **Setup**: Provides steps to obtain the Brevo API key and replace it in the script.
-3. **Running the Script**: Instructions on saving and running the script.
-4. **Output**: Describes the output file.
-5. **Notes**: Important considerations and warnings.
-6. **License**: Information about the script's licensing.
-7. **Contact**: Information for further assistance.
-
-You can copy this content into a `README.md` file in the same directory as your Python script. This will provide clear instructions for anyone using your script.
